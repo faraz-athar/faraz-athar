@@ -114,7 +114,7 @@
 
 ### 🐍 Snake Contribution
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/faraz-athar/faraz-athar/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
 </p>
 
 ---
