@@ -107,15 +107,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" width="100%" alt="Contribution Graph" />
-</p>
 
-### 🐍 Snake Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faraz-athar/faraz-athar/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
-</p>
 
 ---
 
