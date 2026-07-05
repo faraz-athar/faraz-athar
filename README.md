@@ -71,14 +71,9 @@
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
       <p>Modern, responsive portfolio website built with React and Next.js to showcase skills and contact options.</p>
-      <a href="https://YOUR_PORTFOLIO_URL">🔗 Live Demo</a>
+      <a href="https://faraz-athar.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Flappy Boom</h3>
-      <p>An interactive JavaScript browser game utilizing HTML5 canvas, custom physics, and collision logic.</p>
-      <a href="https://YOUR_GAME_URL">🔗 Live Demo</a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Projects</h3>
@@ -118,7 +113,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://faraz-athar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
